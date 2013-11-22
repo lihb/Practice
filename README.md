@@ -25,16 +25,8 @@
 	  忽略
 
 ## src130311文件夹
-   详见：[code jam](www.hupu.com)
 
-## others
+   详见：[code jam](https://code.google.com/codejam/contest/dashboard?c=351101)
 
-```java
-System.out.println("hello");
-```
+	  
 
-```vim
-let g:vim_markdown_initial_foldlevel=1
-```
-
-	 `xode` 
