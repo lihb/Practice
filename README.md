@@ -2,22 +2,30 @@
 
 ## com文件夹
 
-存放的是一个resizearraystack程序，即可以根据元素的大小自动改变栈的大小。
+存放的是一个`resizearraystack`程序，即可以根据元素的大小自动改变栈的大小。
 
 ## src130211文件夹
 
 存放有2个程序:
+
 `Amusitelang`
+
   求1000以内的阿姆斯特朗数，阿姆斯特朗数是一个正整数，它等于其各个数字的立方和。
-`Five` 
+
+`Five`
+
   求100-1000以内的三位数的各个位数之和等于5的数。
 
 ## src130307文件夹
 
 2个程序：
+
 `Bishi_Digui`
+
   一个递归程序
+
 `Bishi_StrToInt`
+
   假设A=1，B=2，C=3.....Z=26,AA=27,BB=28,AC=29...AAA=XXXXX,依此类推，输入一个字符，将其转换成数字输出。
 
 ## src130311文件夹
@@ -35,11 +43,15 @@
 ## src130318文件夹
 	  
 详见[Welcome to Code Jam](https://code.google.com/codejam/contest/90101/dashboard#s=p2)
+
 ## src13030321文件夹
 
 三个程序：
+
 `Convert_to_Binary`——————将正整数的十进制转化成二进制。
+
 `Max——Consecutive_Subsequence`—————求最大连续子序列
+
 `One_one_four`——————假定在一个陌生的国度，有5种不同的硬币单位；15，23，29，41，67（分），寻找所有组合成18元8分（即1808分）的可能组合。假设对于所有面值的硬币你都有足够的硬币。
 
 ## src130324文件夹
